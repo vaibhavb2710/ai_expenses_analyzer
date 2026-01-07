@@ -37,3 +37,4 @@ Uses a hybrid approach: small rules dictionary + TF-IDF + Logistic Regression.
 
 **Notes**
 - This is an MVP. Improve accuracy by adding more labeled examples, adding OCR for screenshots, and using sentence embeddings for better semantics.
+
