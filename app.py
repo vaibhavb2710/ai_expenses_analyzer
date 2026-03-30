@@ -7,6 +7,7 @@ app = Flask(__name__)
 # Enhanced single-file UI using Bootstrap and minimal JS. Replace your existing app.py with this file
 # or save it as app_improved_ui.py and run `python app_improved_ui.py`.
 
+#smmfwewxcv
 HTML = r"""
 <!doctype html>
 <html lang="en">
