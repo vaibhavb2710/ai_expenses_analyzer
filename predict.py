@@ -16,6 +16,7 @@ def rule_category(text):
             return v
     return None
 
+
 def classify(text):
     r = rule_category(text)
     if r:
