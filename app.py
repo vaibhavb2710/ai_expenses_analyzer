@@ -8,6 +8,8 @@ app = Flask(__name__)
 # or save it as app_improved_ui.py and run `python app_improved_ui.py`.
 
 #smmfwewxcv
+
+
 HTML = r"""
 <!doctype html>
 <html lang="en">
