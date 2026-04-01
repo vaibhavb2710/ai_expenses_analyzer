@@ -178,6 +178,8 @@ smsInput.addEventListener('keydown', (e)=>{ if(e.ctrlKey && e.key==='Enter'){ an
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+
+
 """
 
 # Server endpoints: / (serves UI) and /classify (JSON API)
