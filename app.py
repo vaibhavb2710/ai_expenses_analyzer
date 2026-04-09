@@ -2,6 +2,7 @@ from flask import Flask, request, jsonify, render_template_string
 from predict import classify
 import re
 
+
 app = Flask(__name__)
 
 # Enhanced single-file UI using Bootstrap and minimal JS. Replace your existing app.py with this file
